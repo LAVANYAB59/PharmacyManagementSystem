@@ -3,7 +3,7 @@
 A Java-based web application for managing pharmacy operations such as adding medicines, viewing available stock, and displaying medicine details.
 The application follows a layered architecture using Servlets, JSP, DAO, and Utility classes.
 
-#📌 Project Overview#
+📌 Project Overview
 
 This Pharmacy Management System allows administrators to:
 
